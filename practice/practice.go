@@ -4,10 +4,6 @@ import (
 	"fmt"
 )
 
-// func main() {
-// 	fmt.Println("Hello, World!")
-// }
-
-func fizz_buzz() {
+func main() {
 	fmt.Println("Hello, FizzBuzz!")
 }
