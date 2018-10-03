@@ -32,4 +32,5 @@ func spec() {
 	fmt.Println("num: 16", fizz_buzz(16))	
 	fmt.Println("num: 18", fizz_buzz(18))	
 	fmt.Println("num: 19", fizz_buzz(19))	
+	fmt.Println("num: 20", fizz_buzz(20))	
 }
